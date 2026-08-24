@@ -1,5 +1,5 @@
-Meeting Documentation – Legacy-to-Flows Migration
-Overview
+## Meeting Documentation – Legacy-to-Flows Migration
+# Overview
 
 This document demonstrates the use of Minutes of Meeting (MoM) to capture discussions, decisions, open questions, and action items during a legacy-to-new-platform migration project.
 
